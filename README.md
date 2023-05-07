@@ -1,2 +1,2 @@
 # ProjectDemineur
-Projet de démineur fait début 2023 pour l'année de 1ere en NSI.
+Projets faits en NSI en classe de 1ere. 
