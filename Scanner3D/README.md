@@ -14,7 +14,7 @@ Pour utiliser ce code, il faut un équipement particulier et configuré pour le 
 - une boite pour limiter la lumière
 - une carte électronique MycroPython Pyboard
 
-![setup scanner](https://github.com/nathabon/Projects/tree/main/Scanner3D/screenshot/setup_scanner.jpg)
+![setup scanner](https://github.com/nathabon/Projects/blob/main/Scanner3D/screenshot/setup_scanner.jpg)
 
 ## Modules utilisés
 - *Opencv* pour recevoir les images de la caméra
