@@ -2,7 +2,7 @@
 
 
 ## Objectif 
-Le but de ce projet est de créer un DataMatrix (comme un QR code) de 10x10 à prtir d'une chaîne de caractères de longueur 3. Pour lire ce DataMatrix, il faut avoir une application installée, n'étant pas compris nativement pas les téléphones.
+Le but de ce projet est de créer un DataMatrix (comme un QR code) de 10x10 à partir d'une chaîne de caractères de longueur 3. Pour lire ce DataMatrix, il faut avoir une application installée, n'étant pas compris nativement pas les téléphones.
 
 Ce projet a été réalisé en Python, [sans utiliser la PO](https://github.com/nathabon/Projects/blob/main/DataMatrix/README.md#améliorations-possibles) (*programmation orrientée objet*), n'étant pas à l'aise avec ce concept à ce moment là (début novembre 2022).
 
