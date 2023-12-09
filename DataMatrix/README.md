@@ -2,7 +2,7 @@
 
 
 ## Objectif 
-Le but de ce projet est de créer un DataMatrix (comme un QR code) de 10x10 à partir d'une chaîne de caractères de longueur 3. Pour lire ce DataMatrix, il faut avoir une application installée, n'étant pas compris nativement pas les téléphones.
+Le but de ce projet est de créer un DataMatrix (comme un QR code) de 10x10 à partir d'une chaîne de caractères de longueur 3. Pour lire ce DataMatrix, il faut avoir une application installée, la lecture de Datamatrix n'étant pas possible nativement sur la plupart des téléphones.
 
 Ce projet a été réalisé en Python, [sans utiliser la PO](https://github.com/nathabon/Projects/blob/main/DataMatrix/README.md#améliorations-possibles) (*programmation orrientée objet*), n'étant pas à l'aise avec ce concept à ce moment là (début novembre 2022).
 
@@ -11,6 +11,10 @@ Ce projet a été réalisé en Python, [sans utiliser la PO](https://github.com/
 Le programme (version console en .exe & version en .py) ne demande qu'une chaîne de 3 caractères, et montre une fenêtre avec le DataMatrix à scanner, fait avec le module *turtle*.
 
 Le programme ne prend que des caractères dans la table ASCII (0-9, a-z, A-Z, ...).
+
+## Modules utilisés
+- *Turtle* pour afficher le Datamatrix
+- *reed-solomon* pour déterminer les octets de de correction
 
 
 ## Captures d'écran
@@ -38,4 +42,3 @@ Le programme ne prend que des caractères dans la table ASCII (0-9, a-z, A-Z, ..
 - Utiliser la PO (*programmation orrientée objet*) avec les classes,
 - Ajouter des commentaires et des documentations pour mieux comprendre le code,
 - Essayer de comprendre l'algorithme *Reed-Solomon*,
-- Améliorer la vitesse de *Turtle*
