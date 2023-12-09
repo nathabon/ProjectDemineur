@@ -1,9 +1,9 @@
 # Démineur
 
 ## Objectif 
-Le but de ce projet est de créer un jeu de Démineur
+Le but de ce projet est de créer un jeu de Démineur. Ce projet a été réalisé sur la demande du mon professeur de NSI en première.
 
-Ce projet a été réalisé en Python, en utilisant la PO (*programmation orrientée objet*).
+Ce projet a été réalisé en Python, en utilisant la PO (*programmation orientée objet*).
 
 
 ## Fonctionnalités
@@ -73,7 +73,7 @@ Cette classe permet de gérer l'affichage et les interaction utilisateurs
 
 
 ## Difficultées rencontrées
-- Création et arret de la fonction récursive
+- Création et arrêt de la fonction récursive
 
 
 ## Améliorations possibles
