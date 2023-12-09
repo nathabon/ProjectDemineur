@@ -5,7 +5,7 @@ nb_Char = 3
 nb_octets = nb_Char + 5
 CodeWords = [0 for _ in range(nb_Char)]
 CodeWords_bin = [0 for _ in range(nb_octets)]
-tracer(2)
+tracer(0)
 
 def dessine(t):
     for i in range(len(t)):
