@@ -1,7 +1,7 @@
 # Démineur
 
 ## Objectif 
-Le but de ce projet est de créer un jeu de Démineur. Ce projet a été réalisé sur la demande du mon professeur de NSI en première.
+Le but de ce projet est de créer un jeu de Démineur. Ce projet a été réalisé sur la demande du mon professeur de NSI en classe première.
 
 Ce projet a été réalisé en Python, en utilisant la PO (*programmation orientée objet*).
 
